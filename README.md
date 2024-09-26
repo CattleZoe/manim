@@ -1,3 +1,4 @@
+3Brown1Blue 用于制作视频的动画引擎 manim
 <p align="center">
     <a href="https://github.com/3b1b/manim">
         <img src="https://raw.githubusercontent.com/3b1b/manim/master/logo/cropped.png">
